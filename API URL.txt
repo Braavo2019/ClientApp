@@ -1,0 +1,20 @@
+* domain/api/UserMenu/GetUserMarketOptions -- POST {"User" : {"Email":"user@gmail,com"}
+}
+
+*domain/api/UserMenu/GetDailyMenu -- POST {"User" : {"Email":"user@gmail,com"}
+}
+
+*domain/api/PatientSettings/get -- GET {"User" : {"Email":"user@gmail,com"}
+}
+
+*domain/api/Diets/get GET
+
+
+UPDATE
+========
+
+*domain/api/PatientSettings/SetPatientDiets -- POST {"User" : {"Email":"user@gmail,com"},"DietsUUID" : ["2930448C-77D6-4F5A-A4EE-3485CF"]}
+
+Not relvant in this stage: 
+
+*domain/api/ProfileSettings/UpdatePersonalDetails -- POST {"User" : {"Email":"user@gmail,com","Name":"my name is","LastName" : "temp","BirthDate" : "02.20.1980","Pesonal_ID" : 0123456}}
