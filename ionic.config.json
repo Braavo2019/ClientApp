@@ -1,0 +1,7 @@
+{
+  "name": "bravo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
