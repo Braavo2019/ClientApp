@@ -37,6 +37,9 @@ export class GlobalService {
     })
   }*/
   checkIsNetwork() {
+    return false;
+  }
+  checkIsNetwork2() {
     return new Promise(async (resolve, reject) => {
       try {
         console.log("Check network with /braavo server");

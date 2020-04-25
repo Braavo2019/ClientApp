@@ -42,11 +42,11 @@
             },
             {
                 "UUID": "0dfe7494-0d3f-4e4e-aec1-fcc95fd2a7ff",
-                "Name": "Cracker Oat-Lentils",
+                "Name": "Oat_Lentils_crackers",
                 "Description": "101",
                 "Caluries": 340.0,
                 "Image": {
-                    "Name": "Cracker Oat-Lentils",
+                    "Name": "Oat_Lentils_crackers",
                     "Alt": "Cracker Oat-Lentils"
                 }
             },
@@ -91,21 +91,21 @@
             },
             {
                 "UUID": "ded3d642-9463-480b-adf7-8b1c8e54c69c",
-                "Name": "Fennal & Colorabi",
+                "Name": "Fennel_kohlrabi_sliced",
                 "Description": "214",
                 "Caluries": 150.0,
                 "Image": {
-                    "Name": "Fennal & Colorabi",
+                    "Name": "Fennel_kohlrabi_sliced",
                     "Alt": "Fennal & Colorabi"
                 }
             },
             {
                 "UUID": "5eadb24e-3dfb-45bc-846b-64062e124428",
-                "Name": "Cucammber Seaweed",
+                "Name": "Cuccamber_seaweed_salsad",
                 "Description": "213",
                 "Caluries": 97.0,
                 "Image": {
-                    "Name": "Cucammber Seaweed",
+                    "Name": "Cuccamber_seaweed_salsad",
                     "Alt": "Cucammber Seaweed"
                 }
             }
@@ -130,21 +130,21 @@
             },
             {
                 "UUID": "6744355d-c270-4974-a312-1315e4ff3bbc",
-                "Name": "Potato & Cury",
+                "Name": "Sweet_potato_cutlets_VG_GF",
                 "Description": "294",
                 "Caluries": 270.0,
                 "Image": {
-                    "Name": "Potato & Cury",
+                    "Name": "Sweet_potato_cutlets_VG_GF",
                     "Alt": "Potato & Cury"
                 }
             },
             {
                 "UUID": "b6bb2808-ca43-4996-89c7-eadf6e792ce0",
-                "Name": "Apple Cramble Vegan",
+                "Name": "Apple_cramble_VG_GF",
                 "Description": "138",
                 "Caluries": 230.0,
                 "Image": {
-                    "Name": "Apple Cramble Vegan",
+                    "Name": "Apple_cramble_VG_GF",
                     "Alt": "Apple Cramble Vegan"
                 }
             }

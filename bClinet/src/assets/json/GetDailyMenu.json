@@ -15,11 +15,11 @@
             },
             {
                 "UUID": "0dfe7494-0d3f-4e4e-aec1-fcc95fd2a7ff",
-                "Name": "Cracker Oat-Lentils",
+                "Name": "Oat_Lentils_crackers",
                 "Description": "101",
                 "Caluries": 340,
                 "Image": {
-                    "Name": "Cracker Oat-Lentils",
+                    "Name": "Oat_Lentils_crackers",
                     "Alt": "Cracker Oat-Lentils"
                 }
             }
@@ -66,7 +66,7 @@
                 "Caluries": 150,
                 "Image": {
                     "Name": "Fennal_Kohlrabi_sliced",
-                    "Alt": "Fennal_Kohlrabi_sliced"
+                    "Alt": "Fennel_kohlrabi_sliced"
                 }
             },
             {
@@ -87,12 +87,12 @@
         "Dishes": [
             {
                 "UUID": "fc86e277-20c2-40a6-a36b-ea890b85dbba",
-                "Name": "Sardins in Water (3)",
+                "Name": "Sardins_in_water",
                 "Description": "75",
                 "Caluries": 85,
                 "Image": {
-                    "Name": "Sardins in Water (3)",
-                    "Alt": "Sardins in Water (3)"
+                    "Name": "Sardins_in_water",
+                    "Alt": "Sardins in Water"
                 }
             },
             {

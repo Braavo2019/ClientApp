@@ -151,7 +151,7 @@
     },
     {
         "UUID": "50842f09-789e-4c1e-8dac-0c83ef5f06e8",
-        "Name": "Carrot coconut soup",
+        "Name": "Carrot_coconut_soup",
         "Description": "351",
         "Caluries": 447.0,
         "Image": {
@@ -171,7 +171,7 @@
     },
     {
         "UUID": "cf78ad22-16e0-4509-b8c3-b17abf258c02",
-        "Name": "Cold Cocumber soup",
+        "Name": "Cold_cuccamber_soup",
         "Description": "300",
         "Caluries": 230.0,
         "Image": {
@@ -241,12 +241,12 @@
     },
     {
         "UUID": "5eadb24e-3dfb-45bc-846b-64062e124428",
-        "Name": "Cucammber Seaweed",
+        "Name": "Cold_cuccamber_soup",
         "Description": "213",
         "Caluries": 97.0,
         "Image": {
             "Name": "Cold_cuccamber_soup",
-            "Alt": "Cucammber Seaweed"
+            "Alt": "Cold_cuccamber_soup"
         }
     },
     {
