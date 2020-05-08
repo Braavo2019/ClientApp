@@ -11,6 +11,7 @@ export class PrefrencesPage implements OnInit {
     insertPageId = 0;
     diets: any;
     dietSelected: number = 0;
+    
 
     meals = [{
         name: 'Breakfast',
@@ -42,15 +43,34 @@ export class PrefrencesPage implements OnInit {
     async getDietsFromServer() {
         this.diets = await this.api.getDiets();
         console.log("DIETS : ", this.diets)
+        console.log("XXX",this.diets[this.dietSelected]['Name']);
     }
 
-    ngOnInit() {
+  async   ngOnInit() {
+        this.diets =  await this.api.getDiets();
+        console.log("sss"+ this.diets)
+        for (let  index in  this.diets) {
+            
+               if  (this.diets[index]['selected']=="true")  {  
+               this.dietSelected=parseInt(index);
+               console.log("selxceteID=" ,this.dietSelected);
+               }
+               
+        }
     }
+    
 
     async cbChange() {
         localStorage.meals = JSON.stringify(this.meals)
-        console.log("DDD : ", this.diets, this.dietSelected)
-        let ans = await this.api.sendDietToServer(this.diets[this.dietSelected]['UUID']);
+        console.log("meals"+ localStorage.meals);
+        console.log("DDD : ", this.diets, this.dietSelected);
+       //init diets 
+        for (let  index in  this.diets) {
+                       
+            this.diets[index]['selected']="false";
+        }
+        this.diets[this.dietSelected]['selected']="true";
+        let ans = await this.api.sendDietToServer(this.diets[this.dietSelected]['UUID'],this.diets);
     }
 
 }

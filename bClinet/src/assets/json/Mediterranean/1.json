@@ -1,0 +1,90 @@
+[
+    {
+        "MealCalories": 546.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "a581a2de-b88b-47b3-a8d8-e9dd9634e70a",
+                "Name": "Green_smoothi",
+                "Description": "183",
+                "Caluries": 205.0,
+                "Image": {
+                    "Name": "Green_smoothi",
+                    "Alt": "Green_smoothi"
+                }
+            },
+            {
+                "UUID": "fdc1509a-e622-4204-a59a-2af384926721",
+                "Name": "Oat_Lentils_crackers",
+                "Description": "101",
+                "Caluries": 341.0,
+                "Image": {
+                    "Name": "Oat_Lentils_crackers",
+                    "Alt": "Oat_Lentils_crackers"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 781.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "483be25e-3cff-4ea6-8303-745559e81712",
+                "Name": "Sweet_potato_cutlets",
+                "Description": "125",
+                "Caluries": 231.0,
+                "Image": {
+                    "Name": "Sweet_potato_cutlets",
+                    "Alt": "Sweet_potato_cutlets"
+                }
+            },
+            {
+                "UUID": "176115f6-c870-4821-ac89-8460634bbb6b",
+                "Name": "Tef_Bread",
+                "Description": "27.5",
+                "Caluries": 103.0,
+                "Image": {
+                    "Name": "Tef_Bread",
+                    "Alt": "Tef_Bread"
+                }
+            },
+            {
+                "UUID": "50842f09-789e-4c1e-8dac-0c83ef5f06e8",
+                "Name": "Carrot_coconut_soup",
+                "Description": "351",
+                "Caluries": 447.0,
+                "Image": {
+                    "Name": "Carrot_coconut_soup",
+                    "Alt": "Carrot_coconut_soup"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 606.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "99018520-9f01-4849-b758-d0ca3c0295fc",
+                "Name": "Salmon_on_pan",
+                "Description": "154.5",
+                "Caluries": 356.0,
+                "Image": {
+                    "Name": "Salmon_on_pan",
+                    "Alt": "Salmon_on_pan"
+                }
+            },
+            {
+                "UUID": "48506366-fdd4-4edd-84f2-7954f09253ef",
+                "Name": "Sushi",
+                "Description": "308",
+                "Caluries": 250.0,
+                "Image": {
+                    "Name": "Sushi",
+                    "Alt": "Sushi"
+                }
+            }
+        ]
+    }
+]

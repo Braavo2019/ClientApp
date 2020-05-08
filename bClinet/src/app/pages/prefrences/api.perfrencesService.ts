@@ -9,6 +9,8 @@ import { GlobalService } from 'src/app/services/global.service';
 
 export class ApiPerfrencesService implements OnInit {
 
+    public diets;
+
     public loading = false;
     public baseURL = "assets/json/"
     public isNetwork: boolean;
@@ -28,9 +30,21 @@ export class ApiPerfrencesService implements OnInit {
         return new Promise(async (resolve, reject) => {
             try {
                 if (await this.settings.checkIsNetwork())
-                    await this.http.get(this.globalURL + '/Diets/get').subscribe(data => { console.log("ID : ", data); resolve(data); });
+                    await this.http.get(this.globalURL + '/Diets/get').subscribe(data => { 
+                        console.log("ID : ", data); 
+                        localStorage.setItem("diets",JSON.stringify(data));
+                        resolve(data); });
                 else
-                    await this.http.get(this.baseURL + 'diets.json').subscribe(data => { console.log(data); resolve(data); });
+                    await this.http.get(this.baseURL + 'diets.json').subscribe(data => { console.log(data);
+                        if(localStorage.getItem("diets")==null)
+                        { console.log("setdatDietsLocally");
+                            localStorage.setItem("diets",JSON.stringify(data));
+                                     }
+                        else{
+                            data=JSON.parse(localStorage.getItem("diets"));
+                            console.log("getdatDietsLocally",data);
+                        }
+                        resolve(data); });
 
             } catch (err) {
                 console.log(err);
@@ -39,14 +53,17 @@ export class ApiPerfrencesService implements OnInit {
         });
     }
 
-    sendDietToServer(dietId) {
+    sendDietToServer(dietId,dietsObj) {
         return new Promise(async (resolve, reject) => {
             try {
                 let ob = { "User": { "Email": "leedorb@gmail.com" }, "DietsUUID": [dietId] }
                 if (await this.settings.checkIsNetwork())
                     await this.http.post(this.globalURL + '/PatientSettings/SetPatientDiets', ob).subscribe(data => { console.log("ID : ", data); resolve(data); });
                 else
-                    alert("No internet")
+                {
+                    console.log("setDietsssLocaly:",dietsObj);
+                    localStorage.setItem("diets",JSON.stringify(dietsObj));
+                } 
 
             } catch (err) {
                 console.log(err);

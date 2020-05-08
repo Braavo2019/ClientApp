@@ -1,0 +1,130 @@
+[
+    {
+        "MealCalories": 652.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "f7466739-a235-4887-bc7a-5835868bf1e6",
+                "Name": "Oat_meal",
+                "Description": "36",
+                "Caluries": 172.0,
+                "Image": {
+                    "Name": "Oat_meal",
+                    "Alt": "Oat_meal"
+                }
+            },
+            {
+                "UUID": "33f490b1-4442-4018-b94a-29f207e104fc",
+                "Name": "Olives",
+                "Description": "25",
+                "Caluries": 44.0,
+                "Image": {
+                    "Name": "Olives",
+                    "Alt": "Olives"
+                }
+            },
+            {
+                "UUID": "af8af430-24fe-4d9c-b983-ff3767b679e7",
+                "Name": "Alo_gobi",
+                "Description": "131",
+                "Caluries": 164.0,
+                "Image": {
+                    "Name": "Alo_gobi",
+                    "Alt": "Alo_gobi"
+                }
+            },
+            {
+                "UUID": "f642a46e-085d-4977-a7aa-2d4668dddc55",
+                "Name": "Soba_Noodles_Vegetables",
+                "Description": "222",
+                "Caluries": 272.0,
+                "Image": {
+                    "Name": "Soba_Noodles_Vegetables",
+                    "Alt": "Soba_Noodles_Vegetables"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 727.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "21bcc7ce-5b80-48a4-96fc-6a7916302362",
+                "Name": "Brocolli_quiche_GF_VG",
+                "Description": "133",
+                "Caluries": 220.0,
+                "Image": {
+                    "Name": "Brocolli_quiche_GF_VG",
+                    "Alt": "Brocolli_quiche_GF_VG"
+                }
+            },
+            {
+                "UUID": "48506366-fdd4-4edd-84f2-7954f09253ef",
+                "Name": "Sushi",
+                "Description": "308",
+                "Caluries": 250.0,
+                "Image": {
+                    "Name": "Sushi",
+                    "Alt": "Sushi"
+                }
+            },
+            {
+                "UUID": "4e6c3e82-d534-414a-a35c-7fc991a627e0",
+                "Name": "Soup_veg",
+                "Description": "129",
+                "Caluries": 161.0,
+                "Image": {
+                    "Name": "Soup_veg",
+                    "Alt": "Soup_veg"
+                }
+            },
+            {
+                "UUID": "ba92919c-0f9b-4986-b44a-28d3dd297fbc",
+                "Name": "Cuccamber_seaweed_salad",
+                "Description": "213",
+                "Caluries": 96.0,
+                "Image": {
+                    "Name": "Cuccamber_seaweed_salad",
+                    "Alt": "Cuccamber_seaweed_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 660.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "b6f52ae5-c262-4284-b2f2-38d9a1c482c2",
+                "Name": "Muesli_VG_GF",
+                "Description": "281",
+                "Caluries": 300.0,
+                "Image": {
+                    "Name": "Muesli_VG_GF",
+                    "Alt": "Muesli_VG_GF"
+                }
+            },
+            {
+                "UUID": "378a8bac-c2f5-4af5-8ea3-cae08a57c0ad",
+                "Name": "Curry_pottato",
+                "Description": "294",
+                "Caluries": 270.0,
+                "Image": {
+                    "Name": "Curry_pottato",
+                    "Alt": "Curry_pottato"
+                }
+            },
+            {
+                "UUID": "fe1278ff-7e67-4b49-87f8-2be6c8468318",
+                "Name": "Pecan",
+                "Description": "13",
+                "Caluries": 90.0,
+                "Image": {
+                    "Name": "Pecan",
+                    "Alt": "Pecan"
+                }
+            }
+        ]
+    }
+]

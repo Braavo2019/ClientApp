@@ -26,7 +26,7 @@ export class HomePage implements OnInit {
   }
 
   ngOnInit() {
-    console.log("INIT")
+    console.log("INIT-of home page");
   }
 
   changePageStatus() {
