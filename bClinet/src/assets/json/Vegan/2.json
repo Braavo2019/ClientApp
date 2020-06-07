@@ -22,17 +22,7 @@
                     "Name": "Red_pepper",
                     "Alt": "Red_pepper"
                 }
-            },
-            {
-                "UUID": "aeeae99f-3dc1-4a5b-b2c0-2772d2fdcfad",
-                "Name": "Sliced_Vegetables",
-                "Description": "353",
-                "Caluries": 124.0,
-                "Image": {
-                    "Name": "Sliced_Vegetables",
-                    "Alt": "Sliced_Vegetables"
-                }
-            },
+            },            
             {
                 "UUID": "29024f41-33d1-446c-8b20-34be5bc8a957",
                 "Name": "Arugula_pomegranate_salad",
@@ -70,13 +60,13 @@
                 }
             },
             {
-                "UUID": "10390475-3472-4b16-bc46-e1777bf0a3cf",
-                "Name": "Raman_soup",
-                "Description": "179",
-                "Caluries": 139.0,
+                "UUID": "BDFE3CB9-971E-4671-B8E0-8204B5D578E7",
+                "Name": "Coliflower_tabouli",
+                "Description": "214",
+                "Caluries": 190.0,
                 "Image": {
-                    "Name": "Raman_soup",
-                    "Alt": "Raman_soup"
+                    "Name": "Coliflower_tabouli",
+                    "Alt": "Coliflower_tabouli"
                 }
             },
             {

@@ -35,7 +35,7 @@
             },
             {
                 "UUID": "ba92919c-0f9b-4986-b44a-28d3dd297fbc",
-                "Name": "Cuccamber_seaweed_salsad",
+                "Name": "Cuccamber_seaweed_salad",
                 "Description": "213",
                 "Caluries": 96.0,
                 "Image": {
@@ -51,12 +51,12 @@
         "Dishes": [
             {
                 "UUID": "88706f4d-1f3d-4795-b45d-454619dee5df",
-                "Name": "Mushrooms_Shuarma",
+                "Name": "Mushrooms_shuarma",
                 "Description": "206.5",
                 "Caluries": 139.0,
                 "Image": {
-                    "Name": "Mushrooms_Shuarma",
-                    "Alt": "Mushrooms_Shuarma"
+                    "Name": "Mushrooms_shuarma",
+                    "Alt": "Mushrooms_shuarma"
                 }
             },
             {
@@ -88,16 +88,6 @@
                     "Name": "Beet_carrot_salad",
                     "Alt": "Beet_carrot_salad"
                 }
-            },
-            {
-                "UUID": "800a98aa-618e-458c-a79d-a6316b65860e",
-                "Name": "Green_salad",
-                "Description": "474",
-                "Caluries": 210.0,
-                "Image": {
-                    "Name": "Green_salad",
-                    "Alt": "Green_salad"
-                }
             }
         ]
     },
@@ -113,16 +103,6 @@
                 "Image": {
                     "Name": "Smoothi",
                     "Alt": "Smoothi"
-                }
-            },
-            {
-                "UUID": "df75a97e-0513-4afc-bc55-66483ee1ec65",
-                "Name": "Cuccamber",
-                "Description": "133",
-                "Caluries": 20.0,
-                "Image": {
-                    "Name": "Cuccamber",
-                    "Alt": "Cuccamber"
                 }
             },
             {

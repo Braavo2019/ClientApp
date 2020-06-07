@@ -32,16 +32,6 @@
                     "Name": "Arugula_pomegranate_salad",
                     "Alt": "Arugula_pomegranate_salad"
                 }
-            },
-            {
-                "UUID": "9f90fa7d-2fdc-4831-8918-379b48ebad1c",
-                "Name": "Sprouts_salad",
-                "Description": "158",
-                "Caluries": 97.0,
-                "Image": {
-                    "Name": "Sprouts_salad",
-                    "Alt": "Sprouts_salad"
-                }
             }
         ]
     },
@@ -87,12 +77,12 @@
         "Dishes": [
             {
                 "UUID": "88706f4d-1f3d-4795-b45d-454619dee5df",
-                "Name": "Mushrooms_Shuarma",
+                "Name": "Mushrooms_shuarma",
                 "Description": "206.5",
                 "Caluries": 139.0,
                 "Image": {
-                    "Name": "Mushrooms_Shuarma",
-                    "Alt": "Mushrooms_Shuarma"
+                    "Name": "Mushrooms_shuarma",
+                    "Alt": "Mushrooms_shuarma"
                 }
             },
             {

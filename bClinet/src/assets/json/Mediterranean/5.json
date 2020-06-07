@@ -4,13 +4,13 @@
         "MealType": 10,
         "Dishes": [
             {
-                "UUID": "921c383c-da37-44aa-9502-43b3ce567bc1",
-                "Name": "Smoothi",
-                "Description": "161",
-                "Caluries": 290.0,
+                "UUID": "956e427c-7f27-469a-8203-40db39a1b9b7",
+                "Name": "Omlet",
+                "Description": "80.5",
+                "Caluries": 153.0,
                 "Image": {
-                    "Name": "Smoothi",
-                    "Alt": "Smoothi"
+                    "Name": "Omlet",
+                    "Alt": "Omlet"
                 }
             },
             {
@@ -86,13 +86,13 @@
         "MealType": 30,
         "Dishes": [
             {
-                "UUID": "551d4f40-47cb-4773-a12e-f81e597cb25e",
+                "UUID": "AF8AF430-24FE-4D9C-B983-FF3767B679E7",
                 "Name": "Sweet_potato_cutlets_VG_GF",
-                "Description": "105",
-                "Caluries": 269.0,
+                "Description": "131",
+                "Caluries": 164.0,
                 "Image": {
-                    "Name": "Sweet_potato_cutlets_VG_GF",
-                    "Alt": "Sweet_potato_cutlets_VG_GF"
+                    "Name": "Alo_gobi",
+                    "Alt": "Alo_gobi"
                 }
             },
             {

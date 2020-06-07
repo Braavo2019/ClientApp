@@ -9,8 +9,9 @@ import { MyDayService } from '../myday-api';
 export class SelectedMealComponent implements OnInit {
   slideOptsTwo = {
     initialSlide: 1,
-    slidesPerView: 2,
-    loop: true,
+    slidesPerView: 3,
+  
+    loop: false,
     centeredSlides: false
   };
 
