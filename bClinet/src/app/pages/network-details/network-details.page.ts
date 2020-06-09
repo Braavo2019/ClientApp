@@ -8,7 +8,7 @@ import { NetworkService } from '../network/network.service';
     styleUrls: ['./network-details.page.scss'],
 })
 export class NetworkDetailsPage implements OnInit {
-    info: Array<string> = ['BChat', 'Treatment Goals', 'Tasks and Recommendations', 'Food and Products', 'Inforsheets and Links', 'Supplements and Herbs ']
+    info: Array<string> = ['BChat', 'Treatment Goals', 'Tasks and Recommendations', 'Food and Products', 'Info sheets and Links', 'Supplements and Herbs ']
     patientDetails = {};
 
     constructor(private router: Router, public api: NetworkService) {

@@ -9,7 +9,7 @@ import { NetworkService } from './network.service';
 export class NetworkPage implements OnInit {
 
   patientDetails = {};
-  info: Array<string> = ['BChat', 'Treatment Goals', 'Tasks and Recommendations', 'Food and Products', 'Inforsheets and Links', 'Supplements and Herbs ']
+  info: Array<string> = ['BChat', 'Treatment Goals', 'Tasks and Recommendations', 'Food and Products', 'Info sheets and Links', 'Supplements and Herbs ']
 
   constructor(public api: NetworkService) {
     this.getPatientDetails()
