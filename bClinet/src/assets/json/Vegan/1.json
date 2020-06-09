@@ -2,17 +2,7 @@
     {
         "MealCalories": 635.0,
         "MealType": 10,
-        "Dishes": [
-            {
-                "UUID": "f7466739-a235-4887-bc7a-5835868bf1e6",
-                "Name": "Oat_meal",
-                "Description": "36",
-                "Caluries": 172.0,
-                "Image": {
-                    "Name": "Oat_meal",
-                    "Alt": "Oat_meal"
-                }
-            },
+        "Dishes": [            
             {
                 "UUID": "19bc379c-d7ec-433b-89cb-5fa2c30f1fe8",
                 "Name": "Avocado",
@@ -126,13 +116,13 @@
                 }
             },
             {
-                "UUID": "7042c33f-ca4e-4820-b4af-79b4c0732a24",
-                "Name": "Blueberries",
-                "Description": "35",
-                "Caluries": 20.0,
+                "UUID": "9FF0D460-3E4E-4995-81AF-0CC3AC9C0C03",
+                "Name": "Coconut_tapioca",
+                "Description": "67",
+                "Caluries": 168.0,
                 "Image": {
-                    "Name": "Blueberries",
-                    "Alt": "Blueberries"
+                    "Name": "Coconut_tapioca",
+                    "Alt": "Coconut_tapioca"
                 }
             }
         ]

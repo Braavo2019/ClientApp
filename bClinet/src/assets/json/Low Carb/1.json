@@ -61,12 +61,12 @@
             },
             {
                 "UUID": "73b44e53-33ba-420c-8c1e-cdcc9afea0d2",
-                "Name": "steamed_broccoli",
+                "Name": "Steemed_broccoli",
                 "Description": "199",
                 "Caluries": 69.0,
                 "Image": {
-                    "Name": "steamed_broccoli",
-                    "Alt": "steamed_broccoli"
+                    "Name": "Steemed_broccoli",
+                    "Alt": "Steemed_broccoli"
                 }
             },
             {
@@ -88,16 +88,6 @@
                     "Name": "Green_salad",
                     "Alt": "Green_salad"
                 }
-            },
-            {
-                "UUID": "9f90fa7d-2fdc-4831-8918-379b48ebad1c",
-                "Name": "Sprouts_salad",
-                "Description": "158",
-                "Caluries": 97.0,
-                "Image": {
-                    "Name": "Sprouts_salad",
-                    "Alt": "Sprouts_salad"
-                }
             }
         ]
     },
@@ -106,13 +96,13 @@
         "MealType": 30,
         "Dishes": [
             {
-                "UUID": "a581a2de-b88b-47b3-a8d8-e9dd9634e70a",
-                "Name": "Green_smoothi",
-                "Description": "183",
-                "Caluries": 205.0,
+                "UUID": "50842F09-789E-4C1E-8DAC-0C83EF5F06E8",
+                "Name": "Carrot_coconut_soup",
+                "Description": "351",
+                "Caluries": 447.0,
                 "Image": {
-                    "Name": "Green_smoothi",
-                    "Alt": "Green_smoothi"
+                    "Name": "Carrot_coconut_soup",
+                    "Alt": "Carrot_coconut_soup"
                 }
             },
             {

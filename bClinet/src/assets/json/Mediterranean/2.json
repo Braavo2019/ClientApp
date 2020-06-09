@@ -32,16 +32,6 @@
                     "Name": "Sprouts_salad",
                     "Alt": "Sprouts_salad"
                 }
-            },
-            {
-                "UUID": "800a98aa-618e-458c-a79d-a6316b65860e",
-                "Name": "Green_salad",
-                "Description": "474",
-                "Caluries": 210.0,
-                "Image": {
-                    "Name": "Green_salad",
-                    "Alt": "Green_salad"
-                }
             }
         ]
     },
@@ -96,13 +86,13 @@
         "MealType": 30,
         "Dishes": [
             {
-                "UUID": "483be25e-3cff-4ea6-8303-745559e81712",
-                "Name": "Sweet_potato_cutlets",
-                "Description": "125",
-                "Caluries": 231.0,
+                "UUID": "EDEC126F-353E-423F-8A38-07C19EC5F2C7",
+                "Name": "Beet_carrot_salad",
+                "Description": "360",
+                "Caluries": 152.0,
                 "Image": {
-                    "Name": "Sweet_potato_cutlets",
-                    "Alt": "Sweet_potato_cutlets"
+                    "Name": "Beet_carrot_salad",
+                    "Alt": "Beet_carrot_salad"
                 }
             },
             {

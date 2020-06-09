@@ -22,17 +22,7 @@
                     "Name": "Red_pepper",
                     "Alt": "Red_pepper"
                 }
-            },
-            {
-                "UUID": "800a98aa-618e-458c-a79d-a6316b65860e",
-                "Name": "Green_salad",
-                "Description": "474",
-                "Caluries": 210.0,
-                "Image": {
-                    "Name": "Green_salad",
-                    "Alt": "Green_salad"
-                }
-            },
+            },            
             {
                 "UUID": "9f90fa7d-2fdc-4831-8918-379b48ebad1c",
                 "Name": "Sprouts_salad",
@@ -71,12 +61,12 @@
             },
             {
                 "UUID": "73b44e53-33ba-420c-8c1e-cdcc9afea0d2",
-                "Name": "steamed_broccoli",
+                "Name": "Steemed_broccoli",
                 "Description": "199",
                 "Caluries": 69.0,
                 "Image": {
-                    "Name": "steamed_broccoli",
-                    "Alt": "steamed_broccoli"
+                    "Name": "Steemed_broccoli",
+                    "Alt": "Steemed_broccoli"
                 }
             },
             {
@@ -116,23 +106,13 @@
                 }
             },
             {
-                "UUID": "99de4cba-80d6-43ca-93f2-6120902c3963",
-                "Name": "Banana",
-                "Description": "60",
-                "Caluries": 50.0,
+                "UUID": "19BC379C-D7EC-433B-89CB-5FA2C30F1FE8",
+                "Name": "Avocado",
+                "Description": "55",
+                "Caluries": 90.0,
                 "Image": {
-                    "Name": "Banana",
-                    "Alt": "Banana"
-                }
-            },
-            {
-                "UUID": "049e9c93-d5ef-4031-af77-0709fa25ba14",
-                "Name": "Fruit_salad",
-                "Description": "414",
-                "Caluries": 380.0,
-                "Image": {
-                    "Name": "Fruit_salad",
-                    "Alt": "Fruit_salad"
+                    "Name": "Avocado",
+                    "Alt": "Avocado"
                 }
             },
             {

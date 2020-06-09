@@ -68,17 +68,7 @@
                     "Name": "Soup_veg",
                     "Alt": "Soup_veg"
                 }
-            },
-            {
-                "UUID": "52d0248b-6276-4696-8ebb-0cd7362c8754",
-                "Name": "Tahini_salad",
-                "Description": "81",
-                "Caluries": 111.0,
-                "Image": {
-                    "Name": "Tahini_salad",
-                    "Alt": "Tahini_salad"
-                }
-            },
+            },           
             {
                 "UUID": "af8af430-24fe-4d9c-b983-ff3767b679e7",
                 "Name": "Alo_gobi",
@@ -96,13 +86,13 @@
         "MealType": 30,
         "Dishes": [
             {
-                "UUID": "c40b9ae4-61b6-4701-9f91-a475af6ffee0",
-                "Name": "Meat_balls_VG",
-                "Description": "343",
-                "Caluries": 302.0,
+                "UUID": "FE11AF8A-92F6-4562-A4AA-F4FCB93FCF30",
+                "Name": "Mushroomsonion_quiche_GF_VG",
+                "Description": "163",
+                "Caluries": 262.0,
                 "Image": {
-                    "Name": "Meat_balls_VG",
-                    "Alt": "Meat_balls_VG"
+                    "Name": "Mushroomsonion_quiche_GF_VG",
+                    "Alt": "Mushroomsonion_quiche_GF_VG"
                 }
             },
             {
@@ -113,6 +103,16 @@
                 "Image": {
                     "Name": "Sushi",
                     "Alt": "Sushi"
+                }
+            },
+            {
+                "UUID": "D6A7C950-7B77-48FE-947F-1CFB94B6E428",
+                "Name": "Beetroot_carpaccio",
+                "Description": "169",
+                "Caluries": 154.0,
+                "Image": {
+                    "Name": "Beetroot_carpaccio",
+                    "Alt": "Beetroot_carpaccio"
                 }
             }
         ]

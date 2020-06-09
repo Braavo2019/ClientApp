@@ -4,13 +4,13 @@
         "MealType": 10,
         "Dishes": [
             {
-                "UUID": "f7466739-a235-4887-bc7a-5835868bf1e6",
-                "Name": "Oat_meal",
-                "Description": "36",
-                "Caluries": 172.0,
+                "UUID": "1B29DAC1-7697-4D35-A855-660F414F4779",
+                "Name": "Apple",
+                "Description": "100",
+                "Caluries": 50.0,
                 "Image": {
-                    "Name": "Oat_meal",
-                    "Alt": "Oat_meal"
+                    "Name": "Apple",
+                    "Alt": "Apple"
                 }
             },
             {
@@ -40,35 +40,25 @@
         "MealType": 20,
         "Dishes": [
             {
-                "UUID": "c40b9ae4-61b6-4701-9f91-a475af6ffee0",
-                "Name": "Meat_balls_VG",
-                "Description": "343",
-                "Caluries": 302.0,
+                "UUID": "642FE173-520B-4F67-B3A3-CF9F30BDF837",
+                "Name": "Coconut_curry_noodels",
+                "Description": "243",
+                "Caluries": 210.0,
                 "Image": {
-                    "Name": "Meat_balls_VG",
-                    "Alt": "Meat_balls_VG"
+                    "Name": "Coconut_curry_noodels",
+                    "Alt": "Coconut_curry_noodels"
                 }
             },
             {
                 "UUID": "73b44e53-33ba-420c-8c1e-cdcc9afea0d2",
-                "Name": "steamed_broccoli",
+                "Name": "Steemed_broccoli",
                 "Description": "199",
                 "Caluries": 69.0,
                 "Image": {
-                    "Name": "steamed_broccoli",
-                    "Alt": "steamed_broccoli"
+                    "Name": "Steemed_broccoli",
+                    "Alt": "Steemed_broccoli"
                 }
-            },
-            {
-                "UUID": "10390475-3472-4b16-bc46-e1777bf0a3cf",
-                "Name": "Raman_soup",
-                "Description": "179",
-                "Caluries": 139.0,
-                "Image": {
-                    "Name": "Raman_soup",
-                    "Alt": "Raman_soup"
-                }
-            },
+            },            
             {
                 "UUID": "29024f41-33d1-446c-8b20-34be5bc8a957",
                 "Name": "Arugula_pomegranate_salad",
@@ -96,23 +86,23 @@
         "MealType": 30,
         "Dishes": [
             {
-                "UUID": "b6f52ae5-c262-4284-b2f2-38d9a1c482c2",
-                "Name": "Muesli_VG_GF",
-                "Description": "281",
-                "Caluries": 300.0,
+                "UUID": "816584A7-31C2-420A-886F-790ADB71F9BE",
+                "Name": "Almond_pancakes",
+                "Description": "110",
+                "Caluries": 285.0,
                 "Image": {
-                    "Name": "Muesli_VG_GF",
-                    "Alt": "Muesli_VG_GF"
+                    "Name": "Almond_pancakes",
+                    "Alt": "Almond_pancakes"
                 }
             },
             {
-                "UUID": "a5a7a5b4-c9b1-459d-afed-c04ac1eec06a",
-                "Name": "Stuffed_zucchini",
-                "Description": "166",
-                "Caluries": 169.0,
+                "UUID": "7CA6C546-7D03-4FD5-92A9-B68FC757D3C4",
+                "Name": "Walnuts",
+                "Description": "16",
+                "Caluries": 96.0,
                 "Image": {
-                    "Name": "Stuffed_zucchini",
-                    "Alt": "Stuffed_zucchini"
+                    "Name": "Walnuts",
+                    "Alt": "Walnuts"
                 }
             },
             {

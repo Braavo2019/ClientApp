@@ -32,16 +32,6 @@
                     "Name": "Sliced_Vegetables",
                     "Alt": "Sliced_Vegetables"
                 }
-            },
-            {
-                "UUID": "af8af430-24fe-4d9c-b983-ff3767b679e7",
-                "Name": "Alo_gobi",
-                "Description": "131",
-                "Caluries": 164.0,
-                "Image": {
-                    "Name": "Alo_gobi",
-                    "Alt": "Alo_gobi"
-                }
             }
         ]
     },
@@ -103,6 +93,36 @@
                 "Image": {
                     "Name": "Meat_balls",
                     "Alt": "Meat_balls"
+                }
+            },
+            {
+                "UUID": "4e0691ff-1c0f-4947-83c5-cdd3149f8956",
+                "Name": "Tomato_basil_salad",
+                "Description": "166",
+                "Caluries": 41.0,
+                "Image": {
+                    "Name": "Tomato_basil_salad",
+                    "Alt": "Tomato_basil_salad"
+                }
+            },
+            {
+                "UUID": "A7844A37-4A65-482D-ACCE-AC2309EE9C94",
+                "Name": "Rice_Veg",
+                "Description": "234",
+                "Caluries": 299.0,
+                "Image": {
+                    "Name": "Rice_Veg",
+                    "Alt": "Rice_Veg"
+                }
+            },
+            {
+                "UUID": "33f490b1-4442-4018-b94a-29f207e104fc",
+                "Name": "Olives",
+                "Description": "25",
+                "Caluries": 44.0,
+                "Image": {
+                    "Name": "Olives",
+                    "Alt": "Olives"
                 }
             }
         ]
